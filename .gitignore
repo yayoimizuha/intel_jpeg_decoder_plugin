@@ -1,0 +1,6 @@
+**.diagsession
+/libvpl/**
+/vpl_install/**
+/CMakeSettings.json
+/.vs/
+/cmake-build-*/**
